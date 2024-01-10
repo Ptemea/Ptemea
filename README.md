@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with software Engineers  
 - 📫 How to reach me email at Ptemea@outlook.com
 - 😄 Pronouns: her, she
-- ⚡ Fun fact: I play and sing at church
+- ⚡ Fun fact: I play piano and sing at church
 
 <!---
 Ptemea/Ptemea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
