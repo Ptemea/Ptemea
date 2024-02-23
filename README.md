@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phylis Temea
-- 👀 I’m interested in software engineer
-- 🌱 I’m currently learning how github works
-- 💞️ I’m looking to collaborate with software Engineers  
+- 👀 Software engineer
+- 🌱 I’m currently learning how github
+- 💞️ I’m looking to collaborate with software Engineers 
 - 📫 How to reach me email at Ptemea@outlook.com
 - 😄 Pronouns: her, she
 - ⚡ Fun fact: I play piano and sing at church
